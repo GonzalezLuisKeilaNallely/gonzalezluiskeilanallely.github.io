@@ -1,7 +1,5 @@
 html {
     background: url(imagenes/fondo.jpg);
-    
-    
   }
   #logotipo{
     width: 300px;
@@ -133,7 +131,7 @@ font-style: italic;
    text-align: right;
    font-style: italic;
  }
-
+ 
  #glosarioizq{
   width: 450px;
   float:left;
@@ -147,5 +145,11 @@ font-style: italic;
   background-color: rgb(173, 241, 241);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-size-adjust: 20px;
-  
+  }
+  dt{
+    background-color: rgb(143, 204, 120);
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:oblique;
+    font-size: 20px;
   }
