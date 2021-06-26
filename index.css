@@ -168,5 +168,10 @@ dd{
   margin-right: auto;
   margin-top: 50px;
   margin-bottom: 20px;
+}
 
+#referencias{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 12px;
+  font-style: italic;
 }
