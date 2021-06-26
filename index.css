@@ -1,6 +1,7 @@
 html {
-    background: url(imagenes/fondo.jpg);
+    background: url(imagenes/fondo2.jpg);
     background-attachment: fixed;
+    background-size: contain;
   }
   #logotipo{
     width: 300px;
@@ -32,7 +33,7 @@ html {
     width: 1000px;
     height: 100%;
     margin: 0 auto;
-    background-color: #a4ffd9;
+    background-color: #489273;
     border:10px;
     padding: 0px 20px 20px 20px;
     opacity: 80%;
@@ -42,25 +43,24 @@ h4{
 text-align: center;
 }
 #primertitulo{
-    font-family:cursive;
-    font-size : 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size : 60px;
     text-align : center;
-    padding-right: 0;
     background-color:rgb(65, 151, 221);
 }
 
 #tituloCuento{
-  font-family:cursive;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size : 30px;
   text-align : center;
 
 }
-#imagenchapulin{
+#imagenlobo{
     display: block;
     margin-left: auto;
   	margin-right: auto;
-    width: 300px;
-    height: 200px;
+    width: 320px;
+    height: 220px;
 }
 #audio{
   display: block;
