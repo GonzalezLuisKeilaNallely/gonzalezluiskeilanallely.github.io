@@ -142,4 +142,9 @@ font-style: italic;
   width: 450px;
   float:right;
 }
-
+#glosariotitulo{
+  text-align: center;
+  background-color: rgb(173, 241, 241);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-size-adjust: 20px;
+  }
