@@ -133,3 +133,13 @@ font-style: italic;
    text-align: right;
    font-style: italic;
  }
+
+ #glosarioizq{
+  width: 450px;
+  float:left;
+}
+#glosarioder{
+  width: 450px;
+  float:right;
+}
+
